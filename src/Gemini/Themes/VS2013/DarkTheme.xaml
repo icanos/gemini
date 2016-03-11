@@ -8,6 +8,9 @@
         <ResourceDictionary Source="Controls/Tooltip.xaml" />
     </ResourceDictionary.MergedDictionaries>
 
+    <SolidColorBrush x:Key="ControlBackground" Color="#1E1E1E" />
+    <SolidColorBrush x:Key="ControlForeground" Color="#FFFFFF" />
+
     <!-- Menu -->
     <SolidColorBrush x:Key="MenuDefaultBackground" Color="#2D2D30" />
     <SolidColorBrush x:Key="MenuDefaultText" Color="#F1F1F1" />
